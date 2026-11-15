@@ -82,8 +82,10 @@ Parameters used: `T2M, T2M_MAX, T2M_MIN, PRECTOTCORR, RH2M`.
 If NASA POWER is unreachable the app shows a **clearly labelled sample dataset** — never presented as live NASA data.
 
 ## Team INDUSASTRA
-Fawad (Lead, integration) · Aashiq Hussain (Co-Lead, backend & scoring) · Mirza (NASA data & research) ·
-Kiran (UI/UX & frontend) · Shehzadi (Agriculture research & crop catalogue) · Mehran (Testing, docs & presentation).
+Fawad (Team-Lead • Product scope • coordination • interface review • integration • deployment • 
+final submission) · Aashiq Hussain (Co-Team Lead
+NASA POWER data • backend logic • scoring engine • validation • testing • 
+technical documentation) 
 
 ## License / use
 Educational prototype for NASA Space Apps 2026. Not affiliated with or endorsed by NASA.
