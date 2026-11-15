@@ -1,0 +1,16 @@
+{
+  "data_source": "SAMPLE_SYNTHETIC",
+  "disclaimer": "AI-generated synthetic sample climate data approximating Hyderabad, Sindh seasonal patterns. NOT NASA observation data; never present as live NASA POWER output. Offline fallback only.",
+  "location": "Hyderabad, Sindh, Pakistan (approx)",
+  "latitude": 25.39,
+  "longitude": 68.37,
+  "period": "2024-01-01 to 2024-12-31 (synthetic)",
+  "parameters": {
+    "T2M": "Temperature at 2m (C)",
+    "T2M_MAX": "Max Temp 2m (C)",
+    "T2M_MIN": "Min Temp 2m (C)",
+    "PRECTOTCORR": "Precipitation Corrected (mm/day)",
+    "RH2M": "Relative Humidity 2m (%)"
+  },
+  "generated_by": "Claude (AI assistant) for INDUSASTRA / Indus CropWise AI prototype"
+}
